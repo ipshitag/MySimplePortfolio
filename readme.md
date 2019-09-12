@@ -12,13 +12,13 @@
 <hr>
 
 
-[Image3](https://github.com/ipshitag/MySimplePortfolio/blob/master/2019-09-12%20(3).png)
+![Image3](https://github.com/ipshitag/MySimplePortfolio/blob/master/2019-09-12%20(3).png)
 
 
 <hr>
 
 
-[Image4](https://github.com/ipshitag/MySimplePortfolio/blob/master/2019-09-12.png)
+![Image4](https://github.com/ipshitag/MySimplePortfolio/blob/master/2019-09-12.png)
 
 
 
